@@ -15,7 +15,7 @@ npm i pnpm
 
 ## 2. 克隆项目
 ```sh
-git clone https://github.com/xanqan/vite-vue-ts-start.git vite-vue-ts-start
+git clone https://github.com/xanqan/vite-vue-ts-start.git
 ```
 
 ## 3. 下载依赖
